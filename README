@@ -1,0 +1,7 @@
+This repository contains a set of tools that are useful for microcontroller programming.
+
+debug:
+
+   The debug progam creates a function dprintf() that acts like printf(), but sends it 
+   output over the serial port to a terminal. Very handy for debugging things that have
+   serial ports.
